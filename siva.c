@@ -2,5 +2,12 @@
 int main()
 {
 		printf("hello world :");
+		printf("hiii :");
+		printf("moschip:");
+		printf("hyderabad:");
+		printf("sec:");
+
+
 }
+
 

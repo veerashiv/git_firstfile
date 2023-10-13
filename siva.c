@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+		int i;
 		printf("hello world :");
 		printf("hiii :");
 		printf("moschip:");
